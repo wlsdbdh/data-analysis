@@ -1,1 +1,3 @@
-# assignments
+# Assignments
+
+## 1. Titanic 
