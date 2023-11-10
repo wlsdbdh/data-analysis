@@ -1,6 +1,6 @@
 # Titanic - Machine Learning from Disaster
 
-이 프로젝트는 타이타닉 데이터셋을 활용한 데이터 활용 시각을 넓히기 위해 진행되었습니다. 
+이 프로젝트는 타이타닉 데이터셋을 활용해 데이터 활용 시각을 넓히기 위해 진행되었습니다. 
 * Titanic dataset download : https://www.kaggle.com/competitions/titanic/data
 * Titanic dataset code reference : https://www.kaggle.com/competitions/titanic/code
 
